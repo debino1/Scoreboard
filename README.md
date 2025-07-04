@@ -1,11 +1,27 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Scoreboard
+Easily convert numbers between various units with this simple tool.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About The Scoreboard
+## Tech Used
+- HTML
+- CSS
+- JavaScript
 
-A scoreboard app built with HTML, CSS and JavaScript
+
+## Features
+- Responsive layout
+- Counting logic
+
+## Live Demo
+[scorboard.netlify.app](https://scorboard.netlify.app/) 
+
+## Screenshots
+![Screenshot 2025-07-04 at 18 14 03](https://github.com/user-attachments/assets/ab6575a6-b337-4f12-8f18-761df142c91e)
+
+
+
+
+## What I Learned
+- Variables
+- DOM Manipulation
+- Basic mathematic operations
+- Displaying count on textContent
